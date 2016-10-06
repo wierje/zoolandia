@@ -1,6 +1,7 @@
 ﻿using System;
 
-namespace ConsoleApplication
+namespace Zoolandia
+
 {
     public class Program
     {
