@@ -2,8 +2,8 @@ namespace Zoolandia.Animals
 {
     class Animal
     {
-        string name {get;set;}
-        bool _IsAnimalia=true;
+        public string name {get;set;}
+        public bool _IsAnimalia=true;
 
     }
 }
