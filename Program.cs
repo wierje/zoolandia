@@ -8,7 +8,7 @@ namespace Zoolandia.Animals
         public static void Main(string[] args)
         {
             Animal animal = new Animal();
-            animal.name = "Dog"; // set { }
+            animal.name = args[0]; // set { }
             Console.WriteLine(animal.name);
 
         }
