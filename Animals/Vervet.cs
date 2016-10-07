@@ -1,8 +1,8 @@
 namespace Zoolandia.Animals
 {
-    class ChlorocebusPygerythrus
+    // The species for a Vervet Monkey 
+    class ChlorocebusPygerythrus: Animal
     {
-       // The species for a Vervet Monkey 
-       public string habitat {get;set;}
+        
     }
 }

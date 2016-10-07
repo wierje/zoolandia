@@ -1,8 +1,8 @@
 namespace Zoolandia.Animals
 {
-    class SmutsiaGigantea
+    class SmutsiaGigantea: Animal
     {
        // The species for a Giant Pangolin  
-       public string habitat {get;set;}
+       public string scales {get;set;}
     }
 }
