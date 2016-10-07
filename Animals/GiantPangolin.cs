@@ -1,8 +1,8 @@
 namespace Zoolandia.Animals
 {
-    class XerusErythropus
+    class SmutsiaGigantea
     {
-       // The species for an African Striped Squirrel  
+       // The species for a Giant Pangolin  
        public string habitat {get;set;}
     }
 }

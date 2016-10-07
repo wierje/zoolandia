@@ -1,8 +1,8 @@
 namespace Zoolandia.Animals
 {
-    class XerusErythropus
+    class EuptilotisNeoxenus
     {
-       // The species for an African Striped Squirrel  
+       // The species for an Eared Quetzal 
        public string habitat {get;set;}
     }
 }
